@@ -1,3 +1,5 @@
+# Deployment status [![Netlify Status](https://api.netlify.com/api/v1/badges/f78c3c1a-77fc-49db-b703-1bd3287e19af/deploy-status)](https://app.netlify.com/sites/stupefied-curie-e4fac6/deploys)
+
 # About the application
 
 Movie search application with infinite scrolling and lazy loading of data using react.js, react-hooks and material-UI

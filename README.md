@@ -1,4 +1,4 @@
-# Deployment status [![Netlify Status](https://api.netlify.com/api/v1/badges/f78c3c1a-77fc-49db-b703-1bd3287e19af/deploy-status)](https://app.netlify.com/sites/stupefied-curie-e4fac6/deploys)
+# Deployment status [![Netlify Status](https://api.netlify.com/api/v1/badges/664f293b-c866-451a-b08d-614f63eab3bd/deploy-status)](https://app.netlify.com/sites/movie-search-c65f65/deploys)
 
 # About the application
 

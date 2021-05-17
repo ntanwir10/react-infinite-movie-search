@@ -7,6 +7,7 @@ function Search({ searchTerm, onSearchInput, onSearchSubmit }) {
       value={searchTerm}
       onChange={onSearchInput}
       onRequestSearch={onSearchSubmit}
+      className="search-bar"
     />
   );
 }

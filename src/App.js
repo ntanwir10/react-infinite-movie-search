@@ -7,8 +7,6 @@ function App() {
   return (
     <Router>
       <Switch>
-        {/* "exact" is needed in this route, otherwise it would match all paths starting with "/" */}
-        {/* Route paths go here */}
         <Route exact path="/">
           <Home />
         </Route>

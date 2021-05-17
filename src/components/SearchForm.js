@@ -13,8 +13,8 @@ function SearchForm({ onSearchInput, onSearchSubmit, searchTerm }) {
         alignItems="center"
         style={{ opacity: 1 }}
       >
-        <Grid container item justify="center" alignItems="center" spacing={2}>
-          <Grid item sm={6} lg={6}>
+        <Grid container item justify="center" alignItems="center">
+          <Grid item xs={12}>
             <Search
               onSearchInput={onSearchInput}
               onSearchSubmit={onSearchSubmit}
